@@ -1,8 +1,8 @@
-Railroad diagram of how lists work in html
+
 <html>
   
 <body>
-  
+Railroad diagram of lists in html  
 <img src="List Railroad.pdf"/>
   
 </body>
